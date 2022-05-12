@@ -1,0 +1,31 @@
+body {
+  background-color: #eaf6f6;
+  /* font-family: "Roboto", sans-serif; */
+  /* font-size: 16px; */
+  color: #333;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+h1 {
+  color: #66bfbf;
+}
+h3 {
+  color: #66bfbf;
+}
+
+img:hover {
+  background-color: gold;
+}
+
+/************************************ class="container" ************************************/
+
+.profilePic {
+  border-radius: 100%;
+  width: 200px;
+  height: 200px;
+}
